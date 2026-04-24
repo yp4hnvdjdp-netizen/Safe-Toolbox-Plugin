@@ -1,0 +1,11 @@
+build/
+debug/
+*.zip
+*.dmg
+*.pkg
+*.component
+*.vst3
+*.app
+*.xcodeproj
+*.xcworkspace
+.DS_Store
