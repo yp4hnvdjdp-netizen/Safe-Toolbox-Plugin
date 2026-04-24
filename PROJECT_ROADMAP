@@ -1,0 +1,19 @@
+# Project Roadmap
+
+## Goal
+Create a polished JUCE audio plugin with strong DSP, safe output behavior, and a custom visual UI.
+
+## Current Status
+The plugin builds, but the UI and DSP need major improvement.
+
+## Priorities
+1. Keep the build stable
+2. Fix missing knobs
+3. Fix reverb
+4. Add wobble functionality
+5. Add width functionality
+6. Improve UI layout
+7. Add custom assets
+8. Add presets
+9. Add meters
+10. Final polish
