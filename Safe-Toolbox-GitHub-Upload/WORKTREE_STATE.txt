@@ -1,0 +1,19 @@
+Git repo status:
+  branch: main
+  commits: none yet
+  working tree: uncommitted
+
+git status --short --branch:
+  ## No commits yet on main
+  ?? .gitignore
+  ?? ARCHIVE_GUIDE.md
+  ?? Assets/
+  ?? CLAUDE_HANDOFF.md
+  ?? CLAUDE_REVIEW_PACKAGE.md
+  ?? CMakeLists.txt
+  ?? README.md
+  ?? RELEASE_HANDOFF.md
+  ?? Source/
+  ?? Tests/
+  ?? docs/
+  ?? scripts/
